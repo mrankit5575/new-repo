@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+.btn{
+    background-color: red;
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+
+}
+
+.btn2{
+    background-color: blue;
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+
+}
